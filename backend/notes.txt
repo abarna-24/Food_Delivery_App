@@ -1,0 +1,25 @@
+>>npm init
+Backend dependencies:
+
+>>npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+mongoose-helps to connect with database
+jsonwebtoken-create authentication system
+bcrypt-encrypts the user data
+cors-gives permission to frontend to connect with backend
+dotenv-use environment variable in project
+body-parser-pass data coming through the user
+multer-create image store system
+stripe-add payment gateways
+validator-validate the input fields
+nodemon-saving results in server restart
+
+package.json->"type":"module" to access the EF6 feature for defining an express 
+
+For admin
+
+>> npm i axios react-toastify react-router-dom
+axios - used to create network request
+
+stripe dummy card number:
+4000003560000008
